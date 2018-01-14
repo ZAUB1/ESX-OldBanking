@@ -22,3 +22,6 @@ N'hesitez pas a rejoindre mon discord : https://discord.gg/yFuSEGj, et a me cont
 REQUIS : 
 - ES Extended : https://github.com/ESX-Org/es_extended
 - pNotify : https://github.com/Nick78111/pNotify
+
+Screenshot : 
+https://i.imgur.com/M8kvzLK.jpg
